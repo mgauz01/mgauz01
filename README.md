@@ -37,8 +37,12 @@ Backend engineer by background; side projects and experiments are on this GitHub
 ## Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Solutions Architect Associate" />
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner" />
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
+    <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF&labelColor=232F3E" alt="AWS Certified Solutions Architect Associate" />
+  </a>
+  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
+    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF&labelColor=232F3E" alt="AWS Certified Cloud Practitioner" />
+  </a>
 </p>
 
 ## What I Build
