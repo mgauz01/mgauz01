@@ -1,11 +1,11 @@
 # MICHAEL G | SENIOR CLOUD ENGINEER
 
 <p align="center">
-  <img src="./assets/ascii-plasma.gif" alt="Animated purple ASCII plasma banner for Michael G" width="100%" />
+  <img src="./assets/ascii-plasma-v2.gif" alt="Animated purple ASCII plasma banner for Michael G" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/cloud-infrastructure-banner.png" alt="Cloud Infrastructure Engineer // Platform Engineering // Site Reliability Engineer" width="100%" />
+  <img src="./assets/cloud-infrastructure-roles-v2.png" alt="Cloud Infrastructure Engineer // Platform Engineering // Site Reliability Engineer" width="100%" />
 </p>
 
 I am a **Senior Cloud Engineer** focused on building secure, scalable, and repeatable cloud platforms. My work lives where infrastructure, automation, reliability, and developer experience meet.
