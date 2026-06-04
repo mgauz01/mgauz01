@@ -8,7 +8,7 @@
   <img src="./assets/cloud-infrastructure-roles-v2.png" alt="Cloud Infrastructure Engineer // Platform Engineering // Site Reliability Engineer" width="100%" />
 </p>
 
-**Senior Cloud Engineer** building secure, scalable, highly available, disaster-recoverable cloud applications. Focus: infrastructure, automation, reliability, and developer experience. Exploring AI infrastructure (RAG with Pinecone, LangChain, AWS Bedrock).
+**Senior Cloud Engineer** building secure, scalable, highly available, disaster-recoverable cloud applications. Focus: infrastructure, automation, reliability, and developer experience. Recently have been building AI infrastructure (RAG with Pinecone, LangChain, AWS Bedrock).
 
 **AWS**, **GCP**, **CloudFormation**, **AWS CDK**, **Terraform**, **Kubernetes**, and **Ansible** along with declarative IaC, CI/CD, and production SDLC support.
 
