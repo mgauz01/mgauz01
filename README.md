@@ -8,9 +8,11 @@
   <img src="./assets/cloud-infrastructure-roles-v2.png" alt="Cloud Infrastructure Engineer // Platform Engineering // Site Reliability Engineer" width="100%" />
 </p>
 
-I am a **Senior Cloud Engineer** focused on building secure, scalable, and repeatable cloud platforms. My work lives where infrastructure, automation, reliability, and developer experience meet.
+I am a **Senior Cloud Engineer** focused on building secure, scalable, highly available andd disaster recoverable cloud applications. My work lives where infrastructure, automation, reliability, and developer experience all intersect. Recently exploring AI infastructure such as RAG (Pinecone), LangChain & AWS Bedrock.
 
-I specialize in **AWS**, **GCP**, **CloudFormation**, **AWS CDK**, **Terraform**, **Kubernetes**, and **Ansible**, with a strong bias toward infrastructure as code, clean delivery pipelines, and production systems that teams can trust.
+I specialize in **AWS**, **GCP**, **CloudFormation**, **AWS CDK**, **Terraform**, **Kubernetes**, and **Ansible**, with a strong background in declerative IaC, clean CI/CD pipelines, complete SDLC production support.
+
+While I enjoy partaking in all things cloud, my background is originally as a backend software engineer, hence you can find all my side project & interests I am exploring on this github (at least the public ones). So if you'd like to work together on a project, don't hesitate to make contact with me on telegram @xBringItOn.
 
 ## Cloud And DevOps Stack
 
@@ -51,6 +53,20 @@ secure the path by default
 document what future-you will need
 leave the platform easier to run than you found it
 ```
+
+## Contact
+
+<p align="center">
+  <a href="https://t.me/xBringItOn">
+    <img src="./assets/contact-card.png" alt="Contact card for Michael G on Telegram @xBringItOn" width="85%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/xBringItOn">
+    <img src="https://img.shields.io/badge/Telegram-@xBringItOn-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @xBringItOn" />
+  </a>
+</p>
 
 <p align="center">
   <sub>Inspired by terminal art, cloud systems, and old-school ASCII energy.</sub>
