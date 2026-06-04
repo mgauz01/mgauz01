@@ -1,11 +1,11 @@
-# MICHAEL GAUZ | SENIOR CLOUD ENGINEER
+# MICHAEL G | SENIOR CLOUD ENGINEER
 
 <p align="center">
-  <img src="./assets/ascii-plasma.gif" alt="Animated purple ASCII plasma banner for Michael Gauz" width="100%" />
+  <img src="./assets/ascii-plasma.gif" alt="Animated purple ASCII plasma banner for Michael G" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/cloud-infrastructure-banner.png" alt="CLOUD INFRASTRUCTURE // PLATFORM ENGINEERING // AUTOMATION // RESILIENCE" width="100%" />
+  <img src="./assets/cloud-infrastructure-banner.png" alt="Cloud Infrastructure Engineer // Platform Engineering // Site Reliability Engineer" width="100%" />
 </p>
 
 I am a **Senior Cloud Engineer** focused on building secure, scalable, and repeatable cloud platforms. My work lives where infrastructure, automation, reliability, and developer experience meet.
@@ -17,11 +17,16 @@ I specialize in **AWS**, **GCP**, **CloudFormation**, **AWS CDK**, **Terraform**
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
+  <img src="https://img.shields.io/badge/Azure%20Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Cloud" />
   <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CloudFormation" />
   <img src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS CDK" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/KubeFlow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white" alt="KubeFlow" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
