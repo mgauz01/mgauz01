@@ -67,7 +67,3 @@ leave the platform easier to run than you found it
     <img src="https://img.shields.io/badge/Telegram-@xBringItOn-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @xBringItOn" />
   </a>
 </p>
-
-<p align="center">
-  <sub>Inspired by terminal art, cloud systems, and old-school ASCII energy.</sub>
-</p>
