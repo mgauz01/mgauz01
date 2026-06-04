@@ -54,8 +54,6 @@ document what future-you will need
 leave the platform easier to run than you found it
 ```
 
-## Contact
-
 <p align="center">
   <a href="https://t.me/xBringItOn">
     <img src="./assets/contact-card.png" alt="Contact card for Michael G on Telegram @xBringItOn" width="85%" />
