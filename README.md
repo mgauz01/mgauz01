@@ -1,14 +1,12 @@
 # MICHAEL GAUZ | SENIOR CLOUD ENGINEER
 
 <p align="center">
-  <img src="./assets/ascii-plasma.svg" alt="Animated cyberpunk ASCII plasma banner for Michael Gauz" width="100%" />
+  <img src="./assets/ascii-plasma.gif" alt="Animated purple ASCII plasma banner for Michael Gauz" width="100%" />
 </p>
 
-```text
-+------------------------------------------------------------------------------+
-|  CLOUD INFRASTRUCTURE // PLATFORM ENGINEERING // AUTOMATION // RESILIENCE    |
-+------------------------------------------------------------------------------+
-```
+<p align="center">
+  <img src="./assets/cloud-infrastructure-banner.png" alt="CLOUD INFRASTRUCTURE // PLATFORM ENGINEERING // AUTOMATION // RESILIENCE" width="100%" />
+</p>
 
 I am a **Senior Cloud Engineer** focused on building secure, scalable, and repeatable cloud platforms. My work lives where infrastructure, automation, reliability, and developer experience meet.
 
