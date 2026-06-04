@@ -1,18 +1,18 @@
 # MICHAEL G | SENIOR CLOUD ENGINEER
 
 <p align="center">
-  <img src="./assets/ascii-plasma-v2.gif" alt="Animated purple ASCII plasma banner for Michael G" width="100%" />
+  <img src="./assets/ascii-plasma-v3.gif" alt="Animated purple ASCII plasma banner for Michael G" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/cloud-infrastructure-roles-v2.png" alt="Cloud Infrastructure Engineer // Platform Engineering // Site Reliability Engineer" width="100%" />
 </p>
 
-I am a **Senior Cloud Engineer** focused on building secure, scalable, highly available andd disaster recoverable cloud applications. My work lives where infrastructure, automation, reliability, and developer experience all intersect. Recently exploring AI infastructure such as RAG (Pinecone), LangChain & AWS Bedrock.
+I am a **Senior Cloud Engineer** focused on building secure, scalable, highly available and disaster recoverable cloud applications. My work lives where infrastructure, automation, reliability, and developer experience all intersect. Recently exploring AI infastructure such as RAG (Pinecone), LangChain & AWS Bedrock.
 
 I specialize in **AWS**, **GCP**, **CloudFormation**, **AWS CDK**, **Terraform**, **Kubernetes**, and **Ansible**, with a strong background in declerative IaC, clean CI/CD pipelines, complete SDLC production support.
 
-While I enjoy partaking in all things cloud, my background is originally as a backend software engineer, hence you can find all my side project & interests I am exploring on this github (at least the public ones). So if you'd like to work together on a project, don't hesitate to make contact with me on telegram @xBringItOn.
+While I enjoy partaking in all things cloud, my background is originally as a backend software engineer, hence you can find all my side project & interests I am exploring on this github (at least the public ones). So if you'd like to work together on a project, don't hesitate to make contact with me on [Telegram](!https://t.me/xBringItOn).
 
 ## Cloud And DevOps Stack
 
