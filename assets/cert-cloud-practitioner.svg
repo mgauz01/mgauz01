@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="28" role="img" aria-label="AWS Cloud Practitioner">
+  <rect width="56" height="28" fill="#FF9900"/>
+  <rect x="56" width="224" height="28" fill="#000000"/>
+  <text x="28" y="19" fill="#FFFFFF" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">AWS</text>
+  <text x="168" y="19" fill="#FFFFFF" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">CLOUD PRACTITIONER</text>
+</svg>
