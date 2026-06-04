@@ -1,7 +1,7 @@
 # MICHAEL G | SENIOR CLOUD ENGINEER
 
 <p align="center">
-  <img src="./assets/ascii-plasma-v3.gif" alt="Animated purple ASCII plasma banner for Michael G" width="100%" />
+  <img src="./assets/ascii-plasma-v4.gif" alt="Animated purple ASCII plasma banner for Michael G" width="100%" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ I am a **Senior Cloud Engineer** focused on building secure, scalable, highly av
 
 I specialize in **AWS**, **GCP**, **CloudFormation**, **AWS CDK**, **Terraform**, **Kubernetes**, and **Ansible**, with a strong background in declerative IaC, clean CI/CD pipelines, complete SDLC production support.
 
-While I enjoy partaking in all things cloud, my background is originally as a backend software engineer, hence you can find all my side project & interests I am exploring on this github (at least the public ones). So if you'd like to work together on a project, don't hesitate to make contact with me on [Telegram](!https://t.me/xBringItOn).
+While I enjoy partaking in all things cloud, my background is originally as a backend software engineer, hence you can find all my side projects & interests I am exploring on this github (at least the public ones). So if you'd like to work together on a project, don't hesitate to reach out on [Telegram @xBringItOn](https://t.me/xBringItOn).
 
 ## Cloud And DevOps Stack
 
