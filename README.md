@@ -10,7 +10,7 @@
 
 **Senior Cloud Engineer** building secure, scalable, highly available, disaster-recoverable cloud applications. Focus: infrastructure, automation, reliability, and developer experience. Exploring AI infrastructure (RAG with Pinecone, LangChain, AWS Bedrock).
 
-**AWS**, **GCP**, **CloudFormation**, **AWS CDK**, **Terraform**, **Kubernetes**, and **Ansible** — declarative IaC, CI/CD, and production SDLC support.
+**AWS**, **GCP**, **CloudFormation**, **AWS CDK**, **Terraform**, **Kubernetes**, and **Ansible** along with declarative IaC, CI/CD, and production SDLC support.
 
 Backend engineer by background; side projects and experiments are on this GitHub. To collaborate, [Telegram @xBringItOn](https://t.me/xBringItOn).
 
