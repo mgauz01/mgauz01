@@ -1,4 +1,4 @@
-# MICHAEL G | SENIOR CLOUD ENGINEER
+# MICHAEL G -  SENIOR CLOUD ENGINEER
 
 <p align="center">
   <img src="./assets/ascii-plasma-v4.gif" alt="ASCII plasma banner" width="100%" />
