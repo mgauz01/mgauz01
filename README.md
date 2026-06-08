@@ -1,7 +1,7 @@
 # MICHAEL G | SENIOR CLOUD ENGINEER
 
 <p align="center">
-  <img src="./assets/ascii-plasma-v9.gif" alt="ASCII plasma banner with cloud engineering roles" width="100%" />
+  <img src="./assets/ascii-plasma-v7.gif" alt="ASCII plasma banner: MGAUZ01 cloud ops terminal" width="100%" />
 </p>
 
 **Senior Cloud Engineer** building secure, scalable, highly available, disaster-recoverable systems. I work where infrastructure, automation, reliability, and developer experience meet. Currently building AI infrastructure (RAG with Pinecone, LangChain, AWS Bedrock).
