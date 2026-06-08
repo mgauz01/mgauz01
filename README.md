@@ -1,11 +1,7 @@
 # MICHAEL G | SENIOR CLOUD ENGINEER
 
 <p align="center">
-  <img src="./assets/ascii-plasma-v8.gif" alt="ASCII plasma banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/cloud-infrastructure-roles-v3.png" alt="Cloud Infrastructure Engineer // Platform Engineering // Site Reliability Engineer" width="100%" />
+  <img src="./assets/ascii-plasma-v9.gif" alt="ASCII plasma banner with cloud engineering roles" width="100%" />
 </p>
 
 **Senior Cloud Engineer** building secure, scalable, highly available, disaster-recoverable systems. I work where infrastructure, automation, reliability, and developer experience meet. Currently building AI infrastructure (RAG with Pinecone, LangChain, AWS Bedrock).
@@ -58,6 +54,6 @@ Backend engineer by background. Public experiments and side projects live on thi
 
 <p align="center">
   <a href="https://t.me/xBringItOn">
-    <img src="./assets/contact-card-v3.png" alt="Telegram @xBringItOn" width="85%" />
+    <img src="./assets/contact-card-v4.png" alt="Telegram @xBringItOn" width="85%" />
   </a>
 </p>
