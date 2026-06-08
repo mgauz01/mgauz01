@@ -4,7 +4,7 @@
   <img src="./assets/ascii-plasma-v7.gif" alt="ASCII plasma banner: MGAUZ01 cloud ops terminal" width="100%" />
 </p>
 
-**Senior Cloud Engineer.** I build infrastructure that stays up, scales under load, and recovers without a war room. My wheelhouse is automation, reliability, and the platform layers people only notice when they break. I've shipped enough of this to know what I'm worth. Lately most of it is AI infrastructure: RAG with Pinecone, LangChain, and AWS Bedrock.
+**Senior Cloud Engineer.** I build infrastructure that stays up, scales under load, and recovers without a war room. My wheelhouse is automation, reliability, and the platform layers people only notice when they break. I've shipped enough infastructure to know the recognize the weak points before they break. Lately majority of work has been revolving AI infrastructure: RAG with Pinecone, LangChain, and AWS Bedrock.
 
 Backend engineer by background. Public experiments and side projects live on this GitHub. [Telegram @xBringItOn](https://t.me/xBringItOn) for collaboration.
 
