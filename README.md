@@ -4,7 +4,7 @@
   <img src="./assets/ascii-plasma-v7.gif" alt="ASCII plasma banner: MGAUZ01 cloud ops terminal" width="100%" />
 </p>
 
-**Senior Cloud Engineer** building secure, scalable, highly available, disaster-recoverable systems. I work where infrastructure, automation, reliability, and developer experience meet. Currently building AI infrastructure (RAG with Pinecone, LangChain, AWS Bedrock).
+**Senior Cloud Engineer** — I build infrastructure that stays up, scales under load, and recovers cleanly. Most of my work sits across automation, reliability, and the parts of the platform developers actually touch. Lately that's AI infrastructure: RAG with Pinecone, LangChain, and AWS Bedrock.
 
 Backend engineer by background. Public experiments and side projects live on this GitHub. [Telegram @xBringItOn](https://t.me/xBringItOn) for collaboration.
 
@@ -54,6 +54,6 @@ Backend engineer by background. Public experiments and side projects live on thi
 
 <p align="center">
   <a href="https://t.me/xBringItOn">
-    <img src="./assets/contact-card-v5.png" alt="Telegram @xBringItOn" width="65%" />
+    <img src="./assets/contact-card-v5.png" alt="Telegram @xBringItOn" width="58%" />
   </a>
 </p>
