@@ -1,16 +1,12 @@
 # MICHAEL G | SENIOR CLOUD ENGINEER
 
 <p align="center">
-  <img src="./assets/ascii-plasma-v4.gif" alt="ASCII plasma banner" width="100%" />
+  <img src="./assets/ascii-plasma-v5.gif" alt="ASCII plasma banner" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/cloud-infrastructure-roles-v2.png" alt="Cloud Infrastructure Engineer // Platform Engineering // Site Reliability Engineer" width="100%" />
 </p>
-
-```text
-[ STATUS: OPEN TO WORK ]  [ LOC: TORONTO ]  [ FOCUS: CLOUD PLATFORM + SRE ]
-```
 
 **Senior Cloud Engineer** building secure, scalable, highly available, disaster-recoverable systems. I work where infrastructure, automation, reliability, and developer experience meet. Currently building AI infrastructure (RAG with Pinecone, LangChain, AWS Bedrock).
 
@@ -52,13 +48,11 @@ Backend engineer by background. Public experiments and side projects live on thi
 
 ## What I Build
 
-```text
-› infrastructure-as-code     AWS CDK, Terraform, repeatable idempotent provisioning
-› cloud-native platforms     EKS, Lambda, SageMaker, event-driven architectures on AWS
-› kubernetes operations      EKS design, autoscaling, VPC segmentation, workload reliability
-› devops automation          GitHub Actions, ArgoCD, CodePipeline, modern release cycles
-› production resilience      CloudWatch, Prometheus, Grafana, IAM zero-trust, Route 53
-```
+- **Infrastructure as code** - AWS CDK, Terraform, repeatable idempotent provisioning
+- **Cloud-native platforms** - EKS, Lambda, SageMaker, event-driven architectures on AWS
+- **Kubernetes operations** - EKS design, autoscaling, VPC segmentation, workload reliability
+- **DevOps automation** - GitHub Actions, ArgoCD, CodePipeline, modern release cycles
+- **Production resilience** - CloudWatch, Prometheus, Grafana, IAM zero-trust, Route 53
 
 ## Contact
 
