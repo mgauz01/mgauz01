@@ -6,7 +6,7 @@
 
 **Senior Cloud Engineer.** I build infrastructure that stays up, scales under load, and recovers without a war room. My wheelhouse is automation, reliability, and the platform layers people ONLY notice when they break. I've shipped enough infastructure to know the recognize the weak points before they break. Lately majority of work has been revolving AI infrastructure: RAG with Pinecone, LangChain, and AWS Bedrock.
 
-Backend engineer by background. Public experiments and side projects live on this GitHub. [Telegram @xBringItOn](https://t.me/xBringItOn) for collaboration.
+Backend engineer by background. Public experiments and side projects live on this GitHub.
 
 ## Certifications
 
@@ -49,11 +49,3 @@ Backend engineer by background. Public experiments and side projects live on thi
 - **Kubernetes operations** - EKS design, autoscaling, VPC segmentation, workload reliability
 - **DevOps automation** - GitHub Actions, ArgoCD, CodePipeline, modern release cycles
 - **Production resilience** - CloudWatch, Prometheus, Grafana, IAM zero-trust, Route 53
-
-## Contact
-
-<p align="center">
-  <a href="https://t.me/xBringItOn">
-    <img src="./assets/contact-card-v5.png" alt="Telegram @xBringItOn" width="58%" />
-  </a>
-</p>
